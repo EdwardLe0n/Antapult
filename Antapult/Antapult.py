@@ -5,8 +5,8 @@ import thumby
 
 
 from sys import path
-if not '/Games/CharTest' in path:
-    path.append( '/Games/CharTest' )
+if not '/Games/Antapult' in path:
+    path.append( '/Games/Antapult' )
 
 import displaymanager
 import inputmanager
