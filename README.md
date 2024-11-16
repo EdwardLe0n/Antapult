@@ -30,20 +30,14 @@ If you're interesged in checking out what i have for the physical project, then 
 
 Honestly not a lot. This is primarily due to the fact that I attempted to make a game for a thumby, but due to time constraints with other conflicting events in my life, it ended u getting a shift to physical game in tha tail of development.
 
-Finish later.
-
 #### Do I wish the circumstances were different?
 
 Absolutely.
 
 But that's a story for another day!
 
-Finish later.
-
 #### What would you have done differently?
 
 Not participate in a jam given my current schedule...
 
 In a more productive mindset, I wish I did more testing with the thumby api, as there isn't really a built in camera controller, so I would've need to go about that from the ground up
-
-Finish later.
