@@ -49,3 +49,5 @@ Finally, we get to talk about...
 Place all the tiles on the board like so!
 
 ![initialMapSetUp](https://github.com/EdwardLe0n/Antapult/blob/main/Antapult%20-%20King%20of%20the%20Hill/misc%20assets/exampleMap.png)
+
+This essentially acts like the 
