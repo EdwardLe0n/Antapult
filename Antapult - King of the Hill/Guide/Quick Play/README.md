@@ -2,27 +2,50 @@
 
 Welcome to the *Antapult: King of the Hill* quick play guide!!!
 
-As a player, the goal of the game is to gather resources to build up your colonies and troops in an effort to get the most victory point as fast as possible.
+As a player, the goal of the game is to gather resources to build up your colonies and troops in an effort to get the most victory points as fast as possible.
 
-But let's start off at the smallest part of the game!
+With that in mind, let's get you set up to play the game
 
-## Resources
+## Set up
 
-Across the map, there are different resources that to utilize in build and battle. However, in order to use resources, you must first bring the resources back to the colony. With that in mind, each resource has their own weight as well.
+### Keeping track of pieces
 
-However, before going into the wieghts, what can each item generally be used for:
+#### Player Pieces
+Before placing more pieces on the table, make sure all of your pieces to play the game are at hand!
 
-- Leaf :
-  - 
-- Stick : 
-- Rock :
-- Food :
+As a reminder, each player at least needs:
 
-The list of the items, and the attached weights, are as follows:
+- 10 d6 as a method of tracking the number of ants in each unit
+- 10 numbered tokens to keep track of the units you have out in the field
+- 10 reference cards to keep stock of what each unit may be holding
+- 3 colony tokens to keep track of where you can spawn your troops and return resources
+- 2 antapult meeples
+- 2 battle rams
+- 3 shield tokens
 
-- Leaf : 2 ants
-- Stick : 3 ants
-- Rock : 4 ants
-- Food : 6 ants
+Also whilst not necessary, it's nice to have this info on hand or in card form!
 
-To elaborate on the 
+- 1 troop reference card for ant types and general factoids about their abilities
+- 1 crafting reference card that lists what troops can be bought
+- 1 crafting reference card that lists what items can be made
+- 1 building reference card that lists what building can be made
+
+#### Pieces for the board
+
+Now that that has been settled, let's make sure that all pieces for the board are still present!
+
+- 37 tile pieces
+- 10 of each type of resource
+  - Leaf
+  - Stick
+  - Rock
+  - Food
+- 36 victory point tokens
+
+Finally, we get to talk about...
+
+### Setting up the board
+
+Place all the tiles on the board like so!
+
+![initialMapSetUp](https://github.com/EdwardLe0n/Antapult/blob/main/Antapult%20-%20King%20of%20the%20Hill/misc%20assets/exampleMap.png)
