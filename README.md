@@ -22,7 +22,7 @@ However, I'm still looking to work on the thumby in terms of this project, howev
 
 As of the time writing this, it is not complete. 
 
-
+If you're interesged in checking out what i have for the physical project, then [click here!](https://github.com/EdwardLe0n/Antapult/tree/main/Antapult%20-%20King%20of%20the%20Hill)
 
 ## Overall conclusion/ personal thoughts
 
