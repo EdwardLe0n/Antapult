@@ -11,12 +11,15 @@ But let's start off at the smallest part of the game!
 Across the map, there are different resources that to utilize in build and battle. However, in order to use resources, you must first bring the resources back to the colony. With that in mind, each resource has their own weight as well.
 
 However, before going into the wieghts, what can each item generally be used for:
-
-- Leaf :
-  - 
+- Leaf:
+  - Leaves 
 - Stick : 
+  - Sticks are a pretty malleable resource as that allow for a lot of infrastructure!
 - Rock :
+  - Various rocks bits can be fount around the map to help creat tough infrastructure or weaponry
 - Food :
+  - Food is fairly important as it lets you buy more troops
+  - With food, you can get basic ants, and even supped uo versions if ants
 
 The list of the items, and the attached weights, are as follows:
 
