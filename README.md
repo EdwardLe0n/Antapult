@@ -10,7 +10,9 @@ Antapult is a running project that started with a random guy (me) liking Pikmin 
 
 Python. Python happened.
 
-Finish later.
+TLDR, I was too busy, but that storys been told
+
+However, I'm still looking to work on the thumby in terms of this project, however I won't set a confirmation on that yet.
 
 # Antapult: King of the Hill
 
@@ -18,7 +20,9 @@ Finish later.
 
 'Antapult: King of the Hill' is a physical board game with heavy resource management and troop allocation elements, inspired by games like 'Catan' and 'The Battle of Polytopia'
 
-Finish later.
+As of the time writing this, it is not complete. 
+
+
 
 ## Overall conclusion/ personal thoughts
 
