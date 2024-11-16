@@ -4,4 +4,6 @@ The portion is primarily delegated to the physical version of the Game Jam, wher
 
 More on everything later, but here's a link to different parts of this repo
 
-[Link to the Player Guide]()
+[Link to the How To Play](https://github.com/EdwardLe0n/Antapult/tree/main/Antapult%20-%20King%20of%20the%20Hill/Guide/HowToPlay)
+
+[Link to the Quick Play](https://github.com/EdwardLe0n/Antapult/tree/main/Antapult%20-%20King%20of%20the%20Hill/Guide/Quick%20Play)
